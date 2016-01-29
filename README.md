@@ -28,7 +28,7 @@ More precisely, let `M/P` denote the pairing of mechanism `M` with purview `P`. 
         distances = Array[]
         unpartitioned_repertoire = CauseRepertoire(M, P)
         for every partition Z of M/P:
-    	      M1, M2 = Split M according to Z
+    	    M1, M2 = Split M according to Z
             P1, P2 = Split P according to Z
             partitioned_repertoire = CauseRepertoire(M1, P1) x
                                      CauseRepertoire(M2, P2)
