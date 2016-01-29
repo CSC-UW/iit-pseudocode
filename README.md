@@ -1,6 +1,7 @@
 # Integrated Information Theory pseudocode
 *Authors: Bo Marchman and Graham Findlay*  
-*(c) 2016 Giulio Tononi - All right reserved*
+*(c) 2016 Giulio Tononi - All rights reserved*  
+[![DOI](https://zenodo.org/badge/20194/CSC-UW/iit-pseudocode.svg)](https://zenodo.org/badge/latestdoi/20194/CSC-UW/iit-pseudocode)
 
 This is a high-level overview of the process used to locate the major complex within a system and compute its integrated information. For the sake of clarity, some low-level details which are necessary to ensure that the computation is quick and correct in all conceivable cases have been omitted. More details, including a comprehensive Python implementation, are available on the web at www.integratedinformationtheory.org. 
 
